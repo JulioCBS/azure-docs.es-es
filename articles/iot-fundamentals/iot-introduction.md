@@ -81,11 +81,11 @@ Estas son algunas de las funciones que puede proporcionar un servicio de back-en
 
 * Enviar comandos desde la nube a un dispositivo específico. 
 
-* Aprovisionar dispositivos y controlar qué dispositivos se pueden conectar a la infraestructura.
+* Aprovisionar y controlar los dispositivos que  se pueden conectar a la infraestructura.
 
 * Controlar el estado de los dispositivos y supervisar sus actividades.
 
-Por ejemplo, en un escenario de mantenimiento predictivo, el back-end en la nube almacena datos de telemetría históricos. La solución utiliza estos datos para identificar posibles comportamientos anómalos en bombas concretas antes de que causen un problema real. Mediante el análisis de los datos, identifica que la solución preventiva va a devolver un comando al dispositivo para emprender una acción correctiva. Este proceso genera un bucle de realimentación automatizado entre el dispositivo y la nube que aumenta en gran medida la eficacia de la solución.
+Por ejemplo, en un escenario de mantenimiento predictivo, el back-end en la nube almacena datos de telemetría históricos. La solución para estes caso, seria identificar los posibles comportamientos anómalos  en bombas concretas antes de que causen un problema real. Mediante el análisis de los datos, identifica que la solución preventiva va a devolver un comando al dispositivo para emprender una acción correctiva. Este proceso genera un bucle de realimentación automatizado entre el dispositivo y la nube que aumenta en gran medida la eficacia de la solución.
 
 ## <a name="an-iot-example"></a>Un ejemplo de IoT
 
